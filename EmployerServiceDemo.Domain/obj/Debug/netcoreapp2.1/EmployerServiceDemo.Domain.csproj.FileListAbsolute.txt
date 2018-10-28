@@ -1,0 +1,8 @@
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Domain\bin\Debug\netcoreapp2.1\EmployerServiceDemo.Domain.deps.json
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Domain\bin\Debug\netcoreapp2.1\EmployerServiceDemo.Domain.dll
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Domain\bin\Debug\netcoreapp2.1\EmployerServiceDemo.Domain.pdb
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Domain\obj\Debug\netcoreapp2.1\EmployerServiceDemo.Domain.csproj.CoreCompileInputs.cache
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Domain\obj\Debug\netcoreapp2.1\EmployerServiceDemo.Domain.AssemblyInfoInputs.cache
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Domain\obj\Debug\netcoreapp2.1\EmployerServiceDemo.Domain.AssemblyInfo.cs
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Domain\obj\Debug\netcoreapp2.1\EmployerServiceDemo.Domain.dll
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Domain\obj\Debug\netcoreapp2.1\EmployerServiceDemo.Domain.pdb

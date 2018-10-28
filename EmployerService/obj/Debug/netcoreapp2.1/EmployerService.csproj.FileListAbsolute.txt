@@ -1,0 +1,14 @@
+C:\PersonalProjects\New folder\EmployerService\EmployerService\bin\Debug\netcoreapp2.1\EmployerService.deps.json
+C:\PersonalProjects\New folder\EmployerService\EmployerService\bin\Debug\netcoreapp2.1\EmployerService.runtimeconfig.json
+C:\PersonalProjects\New folder\EmployerService\EmployerService\bin\Debug\netcoreapp2.1\EmployerService.runtimeconfig.dev.json
+C:\PersonalProjects\New folder\EmployerService\EmployerService\bin\Debug\netcoreapp2.1\EmployerService.dll
+C:\PersonalProjects\New folder\EmployerService\EmployerService\obj\Debug\netcoreapp2.1\EmployerService.csprojAssemblyReference.cache
+C:\PersonalProjects\New folder\EmployerService\EmployerService\obj\Debug\netcoreapp2.1\EmployerService.csproj.CoreCompileInputs.cache
+C:\PersonalProjects\New folder\EmployerService\EmployerService\obj\Debug\netcoreapp2.1\EmployerService.RazorAssemblyInfo.cache
+C:\PersonalProjects\New folder\EmployerService\EmployerService\obj\Debug\netcoreapp2.1\EmployerService.RazorAssemblyInfo.cs
+C:\PersonalProjects\New folder\EmployerService\EmployerService\obj\Debug\netcoreapp2.1\EmployerService.AssemblyInfoInputs.cache
+C:\PersonalProjects\New folder\EmployerService\EmployerService\obj\Debug\netcoreapp2.1\EmployerService.AssemblyInfo.cs
+C:\PersonalProjects\New folder\EmployerService\EmployerService\obj\Debug\netcoreapp2.1\EmployerService.RazorTargetAssemblyInfo.cache
+C:\PersonalProjects\New folder\EmployerService\EmployerService\bin\Debug\netcoreapp2.1\EmployerService.pdb
+C:\PersonalProjects\New folder\EmployerService\EmployerService\obj\Debug\netcoreapp2.1\EmployerService.dll
+C:\PersonalProjects\New folder\EmployerService\EmployerService\obj\Debug\netcoreapp2.1\EmployerService.pdb

@@ -1,0 +1,12 @@
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Service\bin\Debug\netcoreapp2.1\EmployerServiceDemo.Domain.dll
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Service\obj\Debug\netcoreapp2.1\EmployerServiceDemo.Service.csprojAssemblyReference.cache
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Service\obj\Debug\netcoreapp2.1\EmployerServiceDemo.Service.csproj.CoreCompileInputs.cache
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Service\obj\Debug\netcoreapp2.1\EmployerServiceDemo.Service.AssemblyInfoInputs.cache
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Service\obj\Debug\netcoreapp2.1\EmployerServiceDemo.Service.AssemblyInfo.cs
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Service\bin\Debug\netcoreapp2.1\EmployerServiceDemo.Service.deps.json
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Service\bin\Debug\netcoreapp2.1\EmployerServiceDemo.Service.dll
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Service\bin\Debug\netcoreapp2.1\EmployerServiceDemo.Service.pdb
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Service\bin\Debug\netcoreapp2.1\EmployerServiceDemo.Domain.pdb
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Service\obj\Debug\netcoreapp2.1\EmployerServiceDemo.Service.csproj.CopyComplete
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Service\obj\Debug\netcoreapp2.1\EmployerServiceDemo.Service.dll
+C:\PersonalProjects\New folder\EmployerService\EmployerServiceDemo.Service\obj\Debug\netcoreapp2.1\EmployerServiceDemo.Service.pdb
